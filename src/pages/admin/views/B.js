@@ -1,7 +1,7 @@
 import React from 'react'
 
 const B = () => (
-  <div>B</div>
+  <div className="wrapper" style={{ backgroundColor: 'green', color: '#fff' }}>B</div>
 );
 
 export default B;
